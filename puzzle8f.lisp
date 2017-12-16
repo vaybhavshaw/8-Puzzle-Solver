@@ -1,8 +1,6 @@
 ;;;; VAYBHAV SHAW	
 ;;;; shaw0162@umn.edu
-;;;; LISP ASSIGNMENT QUESTION 2
-;;;; 8 puzzle problem
-;;;; December 7, 2017
+
 
 ;;;;;;;;; INSTRUCTIONS TO RUN ;;;;;;;;;;
 ;; Navigate to the location of the file
